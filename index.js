@@ -118,4 +118,3 @@ document.addEventListener("keydown", (e) => {
     display.value = "";
   }
 });
-
